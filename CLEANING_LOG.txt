@@ -1,0 +1,7 @@
+
+Hotel Data Cleaning Log
+-----------------------
+1. Guests: trimmed, standardized segment, filled missing country, deduplicated by first+last+country, mapped bookings to canonical guest_id.
+2. Rooms: trimmed room_type, ensured numeric capacity and base_rate.
+3. Bookings: normalized booking_channel, parsed dates, dropped duplicate booking_ids, fixed negative lead_time, num_guests <=0, and invalid check_out dates.
+4. Revenues: filled missing revenue values, recalculated total_revenue, flagged mismatches, removed orphan revenue rows.
