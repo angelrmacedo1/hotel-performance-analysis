@@ -64,10 +64,10 @@ Using **SQL** for data extraction, **Python** for cleaning, and **Tableau** for 
 I’m **Angel Macedo**, a data analyst with experience in financial reporting, business analytics, and performance tracking.  
 I specialize in turning complex data into actionable insights that help companies improve efficiency and revenue performance.  
 
-- 📍 Based in Chapel Hill, NC  
-- 💼 [LinkedIn](https://linkedin.com/in/angelr-macedo)  
-- 💻 [GitHub](https://github.com/angelrmacedo1)  
-- 🌐 [Portfolio Website](https://angel-macedo-data-analyst-portfolio.lovable.app)
+- Based in Chapel Hill, NC  
+- [LinkedIn](https://linkedin.com/in/angelr-macedo)  
+- [GitHub](https://github.com/angelrmacedo1)  
+- [Portfolio Website](https://angel-macedo-data-analyst-portfolio.lovable.app)
 
 ---
 
