@@ -55,7 +55,7 @@ Using **SQL** for data extraction, **Python** for cleaning, and **Tableau** for 
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](hotel_reporting_screenshot.png)  
+![Dashboard Screenshot](hotel _reporting _screenshot.png)  
 *(This image provides a quick preview of the interactive Tableau dashboard.)*
 
 ---
